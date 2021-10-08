@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703051433894",
+    "project_id": "fir-email-signup-sample-28c2c",
+    "storage_bucket": "fir-email-signup-sample-28c2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703051433894:android:7260504e73cc835d51f167",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_signup_sample_211007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703051433894-vhp1o7sbrqsshmk8h9qgbt9h847sssvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgscpAZLKmHXCD7mnz0a_pwevbHLe-9cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703051433894-vhp1o7sbrqsshmk8h9qgbt9h847sssvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
